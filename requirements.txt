@@ -1,6 +1,6 @@
 tgcrypto
 ffmpeg-python
-py-tgcalls==0.8.6
+py-tgcalls==0.6.0
 pyrogram==1.4.12
 git+https://github.com/yt-dlp/yt-dlp
 youtube-search-python
